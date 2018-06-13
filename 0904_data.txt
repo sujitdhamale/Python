@@ -1,0 +1,7 @@
+this file is for understanding how search functionality in python
+Regular expression are a very powerful method of matching pattern in text
+Regular expression are use for variety of purpose from simple search ,replace operation to complex text and data manipulation 
+Regular expression are small language it self . regular expression can be very simple or very complex. There of lot of book available  on  Regular Expression
+If you are moderately familiar with how they work and what they look like , you can get lot of power out of them using python’s regular expression module
+Regular expression are implemented in python with “re”  module 
+this is python’s regular expression module and it’s distributed with python
