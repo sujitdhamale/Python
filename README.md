@@ -1,3 +1,8 @@
+# Python learning guide from scratch 
+
+
+
+
 ### 1.	Introduction
 	i.	Python
 	ii.	Prerequisites:
